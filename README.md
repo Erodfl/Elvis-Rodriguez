@@ -2,7 +2,11 @@
 
 <h2>👨‍💻 Reporting Projects:</h2>
 - [Analytics - Data Visualization] https://github.com/Erodfl/Analytics
+- <b>Power BI</b> 
+- <b>Diskpart</b>
 <h2>👨‍💻 Business Process Analysis Projects:</h2>
+- <b>Power BI</b> 
+- <b>Diskpart</b>
 <h2>👨‍💻 Project Management:</h2>
 <h2>👨‍💻 Business Analysis Methodologies:</h2>
 <h2>👨‍💻 Change Management:</h2>
