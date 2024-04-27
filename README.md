@@ -2,3 +2,6 @@
 
 <h2>👨‍💻 Reporting Projects:</h2>
 <h2>👨‍💻 Business Process Analysis Projects:</h2>
+<h2>👨‍💻 Project Management:</h2>
+<h2>👨‍💻 Business Analysis Methodologies:</h2>
+<h2>👨‍💻 Change Management:</h2>
