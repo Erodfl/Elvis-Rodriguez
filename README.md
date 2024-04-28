@@ -1,6 +1,6 @@
 <h1>Hi, I'm Elvis! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Analytics Professional</a></h1>
 
-<h2>👨‍💻 Analytics Projects:</h2>
+<h2>👨‍💻 Supporting Documents:</h2>
 
 - <b>Resume</b>
   - [Supporting Documents](https://github.com/Erodfl/Templates)
