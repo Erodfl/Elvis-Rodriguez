@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Leadership Tools (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/Erodfl/Analytics)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/Erodfl/Analytics)
