@@ -19,15 +19,6 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-<h2>👨‍💻 Reporting Projects:</h2>
-- [Analytics - Data Visualization] https://github.com/Erodfl/Analytics
-- <b>Power BI</b> 
-- <b>Diskpart</b>
-<h2>👨‍💻 Business Process Analysis Projects:</h2>
-- <b>Power BI</b> 
-- <b>Diskpart</b>
-
-
 <h2> 🤳 Connect with me:</h2>
 
 
