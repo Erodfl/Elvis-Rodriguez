@@ -3,7 +3,7 @@
 <h2>👨‍💻 Supporting Documents:</h2>
 
 - <b>Resume</b>
-  - [Link to my resume](https://github.com/Erodfl/Templates)
+  - [My Professional Profile](https://github.com/Erodfl/Templates)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/Erodfl/Analytics)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
