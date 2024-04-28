@@ -1,6 +1,6 @@
 <h1>Hi, I'm Elvis! <br/><a href="https://www.linkedin.com/in/elvisrodriguezr/">Analytics Professional</a></h1>
 
-<h1>Experienced and detail-oriented Business and Data Analyst professional with a proven track record of driving strategic decisions, ensuring regulatory compliance, and optimizing internal audit processes. Skilled in project management, risk assessment, and team leadership, with over 15 years of expertise in technology, project management, and process improvement.
+<b>Experienced and detail-oriented Business and Data Analyst professional with a proven track record of driving strategic decisions, ensuring regulatory compliance, and optimizing internal audit processes. Skilled in project management, risk assessment, and team leadership, with over 15 years of expertise in technology, project management, and process improvement.
 ● Implemented standardizations and software application changes for the Call Center IVR, resulting in a 20% decrease in average call handling time and improved IVR performance (Healthfirst).
 ● Inventory Management Consolidation and SharePoint Applications/Software Implementation (Healthfirst).
 ● Sharepoint Document Management standardizations and software applications change implementation (Healthfirst).
@@ -9,7 +9,7 @@
 ● Reservation/Booking - Operation Data Storage Transformation Initiative & Limo Anywhere
 Implementation (Pronto Transportation).
 ● Verizon Internet services provision, toll & billing software code development/implementation.
-● Verizon Y2K standardizations and software applications change implementation.</h1>
+● Verizon Y2K standardizations and software applications change implementation.</b>
 
 <h2>👨‍💻 Supporting Documents:</h2>
 
