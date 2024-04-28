@@ -3,7 +3,7 @@
 <h2>👨‍💻 Analytics Projects:</h2>
 
 - <b>Leadership Tools (Templates)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Erodfl/Analytics)
+  - [Supporting Documents](https://github.com/Erodfl/Analytics)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/Erodfl/Analytics)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
